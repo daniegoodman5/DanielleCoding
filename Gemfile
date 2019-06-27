@@ -1,8 +1,3 @@
-source 'https://rubygems.org'
-gem 'nokogiri'
-gem 'rack', '~> 2.0.1'
-gem 'rspec'
-
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.2.1'
 # Use postgresql as the database for Active Record
